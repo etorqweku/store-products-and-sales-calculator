@@ -31,3 +31,4 @@ net_revenue_per_product = (retail_price - wholesale price) * sales
 - Because your store is doing so well, you’re able to negotiate a 30% discount on the wholesale price of goods. Calculate the new net revenue
 
 ## Author
+Aryee Kwaku Geoffrey
